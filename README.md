@@ -1,4 +1,5 @@
-# B-DMV
+# Broadcast Distributed Voting Algorithm in Population Protocols
+
 This implementation is for majority voting in DMVR(Pairwise), B-DMV, B-DMV1, and B-DMV2 versions.
 In the network_generator.py code, the adjency matrix of your network is created. 
 The main.py file should be run and you need to follow below steps for specifying details of your running: 
