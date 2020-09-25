@@ -12,6 +12,6 @@ The main.py file should be run and you need to follow below steps for specifying
 
 4- Enter percentage of nodes in majority (for example 53 for 53%)
 
-The final output of total runtime, first step runtime, and second step runtime will be in Opr0, Opr1, and Opr2 respectively.
+The final output of total, first phase, and second phase runtime will be in Opr0, Opr1, and Opr2 respectively.
 
 The final output of total, first phase, and second phase number of messageswill be in Msg0, Msg1, and Msg2 respectively.
